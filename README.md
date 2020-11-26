@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi there, I'm doraemonlei 👋
 
-<!--
-**doraemonlei/doraemonlei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science, Data Science and video game modding enthusiast and a tinkerer at heart. I hold a BSc in Computer Science and Econometrics. I am currently a MSc student at AGH UST in Kraków. Feel free to take a look around my various repositories and projects :)
 
-Here are some ideas to get you started:
+Aside from my own projects, I have contributed to or took a leading role in several open source projects. The most notable include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 
+
+## You can find me at:
+ 
+* Kaggle: 
+* LinkedIn: 
+* Steam Workshop: 
+
+[![Antoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=doraemonlei)](https://github.com/anuraghazra/github-readme-stats)
